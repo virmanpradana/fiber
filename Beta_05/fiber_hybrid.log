@@ -1,0 +1,1763 @@
+2025-04-20 12:38:34,351 - model.storage - INFO - Índices verificados
+2025-04-20 12:38:34,612 - model.storage - INFO - Base de datos inicializada correctamente
+2025-04-20 12:38:34,612 - model.storage - INFO - Almacenamiento configurado en: a:\SCRIPT FIBRA\Beta_04\src\..\config\network_config.db
+2025-04-20 12:38:34,612 - model.network_model - INFO - [INIT_GRAPH] INICIO para planta: default
+2025-04-20 12:38:34,612 - model.network_model - INFO - Inicializando grafo por defecto para planta default
+2025-04-20 12:38:34,612 - model.network_model - INFO - [INIT_GRAPH] FIN para planta: default (nodos: 23, enlaces: 22)
+2025-04-20 12:38:34,612 - model.network_model - INFO - NetworkModel inicializado con soporte multi-planta
+2025-04-20 12:38:34,612 - model.network_model - INFO - [INIT_GRAPH] INICIO para planta: Sabinar I
+2025-04-20 12:38:34,612 - model.network_model - INFO - Inicializando grafo desde datos cargados
+2025-04-20 12:38:34,627 - model.network_model - INFO - [INIT_GRAPH] FIN para planta: Sabinar I (nodos: 23, enlaces: 22)
+2025-04-20 12:38:34,627 - __main__ - INFO - Planta inicial establecida a 'Sabinar I'
+2025-04-20 12:38:35,294 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,294 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:38:35,294 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:38:35,296 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:38:35,296 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:38:35,296 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,297 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,297 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,297 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,297 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,298 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,298 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,298 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,298 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,299 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,299 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,299 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,300 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,300 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,300 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,300 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,301 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,301 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,301 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,301 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,302 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,302 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,302 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,303 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,303 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,303 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,303 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,304 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,304 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,304 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,304 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,305 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,305 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,305 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,305 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,306 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,306 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,306 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,306 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,306 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,307 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,307 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,307 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,309 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,310 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:35,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:35,318 - __main__ - INFO - Ventana principal creada
+2025-04-20 12:38:35,355 - __main__ - INFO - Ventana principal mostrada
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:40,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:40,329 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:38:45,315 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:38:45,315 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:38:45,315 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,328 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,330 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,330 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:45,333 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:45,333 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:50,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,325 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:38:55,325 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:38:55,325 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:38:55,325 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:38:55,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,329 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,329 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,329 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,329 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,331 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,331 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,331 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,332 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,332 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,332 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,332 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,333 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,333 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,333 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,333 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,338 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,338 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,338 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,340 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,340 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:38:55,345 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:38:55,345 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,328 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,328 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,328 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,328 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,329 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,329 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,329 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,330 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,330 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,331 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,331 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,332 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,333 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:00,335 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:00,335 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,313 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,325 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:39:05,325 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:39:05,327 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:39:05,327 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:39:05,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,328 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,328 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,329 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,329 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,330 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,332 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,332 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:05,335 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:05,335 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:10,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:15,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:15,334 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:39:15,334 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:39:15,334 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:39:15,334 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:39:15,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:18,798 - model.storage - WARNING - Configuración 'cctv' no encontrada para planta 'Sabinar I'
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:25,340 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:25,340 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:39:25,340 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:39:25,340 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:39:25,340 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:39:25,340 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:30,339 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:30,339 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:35,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,314 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:39:40,314 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:39:40,316 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:39:40,316 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:39:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,328 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,328 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:40,331 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:40,331 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:45,339 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:45,339 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:39:50,323 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:39:50,323 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:39:50,323 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,338 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,338 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:50,338 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:50,338 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,339 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,339 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,339 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,339 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,339 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,339 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,339 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,339 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:39:55,339 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:39:55,339 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:40:00,324 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:40:00,324 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:40:00,324 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:00,340 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:00,340 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:05,330 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:05,330 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:40:10,325 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:40:10,325 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:40:10,325 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,340 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,340 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:10,340 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:10,340 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:40:20,326 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:40:20,326 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:40:20,326 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,342 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,342 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,342 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:20,342 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:20,342 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:25,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:30,339 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:30,339 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:40:30,339 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:40:30,339 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:40:30,342 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:40:30,342 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:35,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:40,333 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:40,333 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,313 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,313 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:40:45,314 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:40:45,315 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:40:45,316 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:40:45,316 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,316 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,319 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,319 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,321 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,331 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,331 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,331 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,332 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,332 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,332 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,332 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,350 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,350 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:45,353 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:45,353 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:50,320 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:40:55,315 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:40:55,315 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:40:55,315 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:40:55,330 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:40:55,330 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,314 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,314 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,314 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,314 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,314 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:00,317 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,324 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:41:05,324 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:41:05,324 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:41:05,324 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:41:05,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,331 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,331 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,331 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,331 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,331 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,331 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,331 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,332 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,332 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,332 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,332 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,332 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,333 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,333 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,333 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,333 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,333 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,333 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,335 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,335 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,335 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,336 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,336 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,336 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,337 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,337 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,337 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,337 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:05,337 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:05,337 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,330 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,330 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,331 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,331 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,331 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,332 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,333 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,333 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,336 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,336 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,336 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,336 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,336 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,338 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,340 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,340 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,341 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,341 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,341 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,341 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,342 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,342 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,344 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,344 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:10,350 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:10,350 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:13,560 - model.storage - WARNING - Configuración 'cctv' no encontrada para planta 'Sabinar I'
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,318 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,324 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:41:15,325 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:41:15,326 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:41:15,326 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:41:15,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,328 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,328 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,328 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,328 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,328 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,329 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,329 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,330 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,330 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,330 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,330 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,330 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,331 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,332 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,332 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:15,335 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:15,335 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,315 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,321 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,322 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,324 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,324 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,325 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,325 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,326 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:20,327 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:20,327 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,323 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,329 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,329 - root - INFO - [GET_LOGICAL_GRAPH] Construyendo DG desde cero
+2025-04-20 12:41:25,329 - root - INFO - [BUILD_DG] INICIO para planta: Sabinar I
+2025-04-20 12:41:25,330 - root - INFO - [ADD_RING] FIN
+2025-04-20 12:41:25,331 - root - INFO - [BUILD_DG] FIN para planta: Sabinar I
+2025-04-20 12:41:25,331 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,331 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,332 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,332 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,333 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,333 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,333 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,334 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,334 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,335 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,335 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,335 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,335 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,336 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,336 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
+2025-04-20 12:41:25,340 - root - INFO - [GET_LOGICAL_GRAPH] Iniciando construcción/obtención de DG
+2025-04-20 12:41:25,340 - root - INFO - [GET_LOGICAL_GRAPH] Finalizado
